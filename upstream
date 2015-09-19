@@ -1,1 +1,2 @@
 Explain what the "upstream" remote is usually used for, in your own words
+When you clone a repository, the parent repository is described as being "Upstream", from your cloned repository and your new repository is described as being "Downstream" from the parent repository.
